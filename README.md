@@ -65,4 +65,5 @@ InfinityFi is designed with scalability and future growth in mind. The following
 - **Metaverse Integration**: Virtual reality interfaces and metaverse-based financial services
 
 ## Contract Details: 0x35c4EC728348740Dd4699B40D58EaD651E7Eea87
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/426fe0c3-a650-4f4c-a7d0-96c7deada128" />
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/cd3cba81-3831-469f-abac-093bc954e991" />
+
